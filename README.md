@@ -15,7 +15,7 @@ The Supply Chain Simulator is a **C++ project** that simulates the supply chain 
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SupplyChainSimulator.git
+   git clone https://github.com/espi0054/SupplyChainSimulator.git
    ```
 
 2. Navigate to the project directory
